@@ -5,6 +5,7 @@
 //  Created by In Chung Yeul on 2016. 4. 12..
 //  Copyright © 2016년 inchung. All rights reserved.
 //
+// 1차 수정이당..
 
 import UIKit
 
